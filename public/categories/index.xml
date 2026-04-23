@@ -6,14 +6,6 @@
     <description>Recent content in Categories on Thyamix</description>
     <generator>Hugo</generator>
     <language>en-uk</language>
-    <lastBuildDate>Wed, 08 Apr 2026 16:36:30 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Test</title>
-      <link>http://localhost:1313/categories/test/</link>
-      <pubDate>Wed, 08 Apr 2026 16:36:30 +0200</pubDate>
-      <guid>http://localhost:1313/categories/test/</guid>
-      <description></description>
-    </item>
   </channel>
 </rss>
