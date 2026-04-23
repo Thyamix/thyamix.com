@@ -1,0 +1,64 @@
+baseURL = 'https://thyamix.com/'
+languageCode = 'en-uk'
+title = 'Thyamix'
+theme = "hugo-coder"
+
+[pagination]
+pagerSize = 20
+
+[services]
+[services.disqus]
+shortname = "yourdiscussshortname"
+
+[markup.highlight]
+style = "github-dark"
+
+[params]
+  author = "Alexander Pollock"
+  info = "Backend Developer"
+  keywords = "blog,developer,personal"
+  #gravatar = "john.doe@example.com"
+
+  faviconSVG = "/img/favicon.svg"
+  favicon_32 = "/img/favicon-32x32.png"
+
+  enableTwemoji = true
+
+  colorScheme = "auto"
+  hidecolorschemetoggle = false
+
+  # customCSS = ["css/custom.css"]
+  # customSCSS = ["scss/custom.scss"]
+  # customJS = ["js/custom.js"]
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+  author = "authors"
+
+# Social links
+[[params.social]]
+  name = "Github"
+  icon = "fa-brands fa-github fa-2x"
+  weight = 1
+  url = "https://github.com/Thyamix/"
+[[params.social]]
+  name = "Gitea"
+  icon = "fa-brands fa-gitlab fa-2x"
+  weight = 2
+  url = "https://git.thyamix.com/thyamix/"
+
+# Menu links
+[[menu.main]]
+  name = "Blog"
+  weight = 1
+  url  = "posts/"
+[[menu.main]]
+  name = "Projects"
+  weight = 1
+  url  = "projects"
+[[menu.main]]
+  name = "About"
+  weight = 2
+  url = "about/"

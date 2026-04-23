@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thyamix</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Thyamix</description>
+    <generator>Hugo</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Thu, 23 Apr 2026 10:30:00 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Factuvo</title>
+      <link>http://localhost:1313/projects/factuvo/</link>
+      <pubDate>Thu, 23 Apr 2026 10:30:00 +0200</pubDate>
+      <guid>http://localhost:1313/projects/factuvo/</guid>
+      <description>&lt;h2 id=&#34;factuvo--link-may-expire-after-2027&#34;&gt;&#xA;  &lt;a href=&#34;https://factuvo.fr&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Factuvo&lt;/a&gt; &amp;ndash; Link may expire after 2027&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#factuvo--link-may-expire-after-2027&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;I have a family member in France who is an English teacher. In 2026, new regulations were being put into place in France that were complicating the invoicing and reporting process. Having made good progress over the last year or two of development and finally starting to feel confident in my abilities, I decided this was a good opportunity for a startup. That way I could both help my family member and create an app targeted specifically to French independent teachers that could maybe turn a profit.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sumcrowds</title>
+      <link>http://localhost:1313/projects/sumcrowds/</link>
+      <pubDate>Wed, 08 Apr 2026 16:38:47 +0200</pubDate>
+      <guid>http://localhost:1313/projects/sumcrowds/</guid>
+      <description>&lt;h3 id=&#34;sumcrowds&#34;&gt;&#xA;  &lt;a href=&#34;https://sumcrowds.com&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sumcrowds&lt;/a&gt;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#sumcrowds&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;Github: &lt;a href=&#34;https://github.com/thyamix/sumcrowds&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;app&lt;/a&gt; / &lt;a href=&#34;https://github.com/thyamix/sumcrowds-infra&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;infra&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Sumcrowds was my first real project. It has also been the one I return to most often while learning new technologies and concepts.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/projects/sumcrowds.png&#34; alt=&#34;Sumcrowds app image&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;At a high level, the app is just a simple attendance tracker. It was initially made to help a family member who was hosting an event and needed an easy way to keep track of the number of people in the venue. This was slightly complicated by the fact that there were multiple entrances.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Wed, 08 Apr 2026 16:38:43 +0200</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;I am a self-taught backend developer specialising in Go, with production experience building SaaS platforms and&#xA;distributed systems. I founded factuvo.fr, a compliant invoicing platform for French self-employed teachers. I&#xA;was recently invited to contribute to NimbusMC, a private Minecraft battle royale server, where I had my first PR&#xA;merged within a week of joining. I am comfortable owning projects end-to-end, from architecture through to&#xA;deployment. Bilingual English/French.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
