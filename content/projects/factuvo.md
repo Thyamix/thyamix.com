@@ -18,7 +18,7 @@ From that point on, I was doing a lot of database schemas, code review and UI it
 
 That is until I reached the TVA for the invoices. I really wanted to make sure I was doing it properly so I decided to do some more research. And I found a law that was passed to reduce fraud. It required cryptographic proof of continuity. That was no issue. If anything, it sounded like a fun technical challenge. However, I would also require the NF525 certification, and that was a hurdle that I unfortunately could not surpass. To get the certification, my software would have to undergo expensive and repeated audits, and I did not have the budget for that.
 
-Despite the regulatory hurdles, the project wasn’t dead. Since teachers earning less than 37 €500 do not require TVA, the project still had a change. And if I could get enough users, then maybe the NF525 would be possible in the future.
+Despite the regulatory hurdles, the project wasn’t dead. Since teachers earning less than 37,500€ do not require TVA, the project still had a change. And if I could get enough users, then maybe the NF525 would be possible in the future.
 
 This is when I hit the second, and even bigger, issue: Marketing. I quickly realised that my personal philosophy was at odds with traditional growth tactics. I find cold emails and unsolicited calls intrusive, so I couldn’t bring myself to subject others to them. Unfortunately, I soon learnt that ‘doing what I would consider acceptable’ was not compatible with the aggressive push needed to launch a new platform solo.
 
