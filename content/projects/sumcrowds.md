@@ -14,4 +14,5 @@ Sumcrowds was my first real project. It has also been the one I return to most o
 
 At a high level, the app is just a simple attendance tracker. It was initially made to help a family member who was hosting an event and needed an easy way to keep track of the number of people in the venue. This was slightly complicated by the fact that there were multiple entrances.
 
-But really that has been the strongest point for it. Because although it is quite a simple app, I have used it to explore many new concepts. When first starting I integrated websockets to replace the long polling as well a i18n. Then later when learning use AIs for coding, I used sumcrowds, and redesigned the UI as well as created a React Native app. Then again when I wanted to learn to use Kubernetes and OpenTofu.
+But really, that has been the strongest point for it. Because although it is quite a simple app, I have used it to explore many new concepts. When first starting, I integrated web sockets to replace the long polling as well as an i18n. Then later, when learning to use AIs for coding, I used crowds, and redesigned the UI as well as created a React Native app. Then again, when I wanted to learn to use Kubernetes and OpenTofu.
+
