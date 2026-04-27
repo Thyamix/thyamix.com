@@ -2,6 +2,7 @@
 title = 'Factuvo'
 date = 2026-04-23T10:30:00+02:00
 draft = false
+tags = ["project", "go", "startup", "postmortem"]
 +++
 
 ## [Factuvo](https://factuvo.fr) -- Link may expire after 2027

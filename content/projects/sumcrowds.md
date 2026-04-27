@@ -2,6 +2,7 @@
 title = 'Sumcrowds'
 date = 2026-04-08T16:38:47+02:00
 draft = false
+tags = ["project", "learning", "go", "infra", "react-native", "kubernetes"]
 +++
 
 ### [Sumcrowds](https://sumcrowds.com)
